@@ -1,5 +1,4 @@
 # SmartFilesManager
-Voici une description complète et professionnelle pour ton projet SmartFilesManager, parfaitement formatée pour le README.md de ton dépôt GitHub.
 
 📁 SmartFilesManager
 SmartFilesManager est un utilitaire d'automatisation intelligent conçu pour garder votre espace de travail propre et organisé. Le programme surveille en arrière-plan un dossier spécifique (comme votre dossier Téléchargements ou votre Bureau) et trie instantanément chaque nouveau fichier qui y apparaît en le déplaçant dans le sous-dossier approprié selon son type (Musique, Vidéos, Images, Documents, etc.).
